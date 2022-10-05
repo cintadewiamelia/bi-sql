@@ -1,0 +1,1 @@
+-- Rata-rata profit dari seluruh order (dalam mata uang)

@@ -1,0 +1,1 @@
+-- Berapa discount terkecil dari seluruh order

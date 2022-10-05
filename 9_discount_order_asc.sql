@@ -1,0 +1,1 @@
+-- Order mana yang mendapatkan total discount paling kecil

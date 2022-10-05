@@ -1,0 +1,1 @@
+-- Jumlah unique customer yang telah memesan produk

@@ -1,0 +1,1 @@
+-- Jumlah seluruh produk dari kategori Furniture
