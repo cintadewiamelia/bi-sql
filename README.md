@@ -7,7 +7,7 @@ Repository ini merupakan project latihan dengan tugas membentuk metrics berdasar
 ## Detail Dataset
 
 - Dataset : Superstore - BI Analyst
-- Database load: BigQuery Dataset ID `...`
+- Database load: BigQuery Dataset ID `bi-sql-364614.bi_sql_superstore`
 - Keterangan :
     - Tabel Order berisi daftar pesanan customer disertai barang yang dipesan
     - Tabel Categories berisi daftar barang dan identitasnya yang tersedia dan dijual di PT VWXYZ
